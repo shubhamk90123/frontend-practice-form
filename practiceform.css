@@ -1,0 +1,38 @@
+body{
+    background-color: #05c46b;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-left: 450px;
+    padding-right: 450px;
+}
+h1{
+    text-align: center;
+}
+form{
+    background-color: white;  
+    padding-left: 20px;
+    padding-top: 30px;
+}
+textarea{
+    height: 50px;
+    width: 500px;
+}
+button{
+    background-color:  #05c46b;
+    text-align: center;
+    padding: 0 215px 0 215px;
+    font-size: 23px;
+}
+#myid{
+    padding-bottom: 50px;
+}
+input[type=text]{
+    height:30px;
+    width: 500px;
+}
+select{
+    height:40px;
+    width: 500px;
+}
+.myid2{
+    line-height: 20px;
+}
